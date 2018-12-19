@@ -1,0 +1,3 @@
+/Users/lijunjie/mac/dev/build/studio/algorithm4j/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+/Users/lijunjie/mac/dev/build/studio/algorithm4j/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/lijunjie/mac/dev/build/studio/algorithm4j/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/native-lib.dir
